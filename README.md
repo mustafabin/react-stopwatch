@@ -47,16 +47,12 @@ styling - to the existing code!
 >
 > You can use `clearInterval` to stop the current interval!
 
-## Bonus
+## Resources
 
-Bonuses are described after the requirements, if included. They should be worked
-on **only after** passing requirements.
-
-Less experienced students should be able to complete the base requirements in
-the alloted time for labs and in around 2 hours for homework; more experienced
-students should be to complete the bonus.
-
-Sometimes, we ask questions that promote thinking critically about code.
+- [Forms in React](https://facebook.github.io/react/docs/forms.html#controlled-components)
+- [Components and Props](https://facebook.github.io/react/docs/components-and-props.html)
+- [Adding State to a Component](https://facebook.github.io/react/docs/state-and-lifecycle.html#adding-local-state-to-a-class)
+- [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
 
 ## Plagiarism
 
