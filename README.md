@@ -7,9 +7,9 @@ Recreate a stopwatch in React. Your final product should function similarly to
 
 ## Prerequisites
 
-* React
-* Components
-* State and props
+- React
+- Components
+- State and props
 
 ## Instructions
 
@@ -33,16 +33,15 @@ styling - to the existing code!
    track the incrementing time. (You may need additional state properties later
    on)
 1. Create a `handleStart` method that calls setInterval() and updates `counter`
-   every second.  (Make sure to use `setState` to update)
+   every second. (Make sure to use `setState` to update)
 1. Include an `onClick` attribute on the start button which calls `handleStart`
 1. Replace the `0` in the `h1` heading with your `counter`.
 1. Next you will need to create `onClick` event attributes for reset and pause
    and associated methods for each.
 
-> **Hints**...*Shhhhhh!*
-> You will also most likely need to include an additional
+> **Hints**..._Shhhhhh!_ You will also most likely need to include an additional
 > attribute in your constructor method that keeps track of your current
-> interval.  If you have an active interval, then don't let the start button be
+> interval. If you have an active interval, then don't let the start button be
 > fired again!
 >
 > You can use `clearInterval` to stop the current interval!
@@ -56,7 +55,9 @@ styling - to the existing code!
 
 ## Plagiarism
 
-Take a moment to refamiliarize yourself with the [Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md). Plagiarized work will not be accepted.
+Take a moment to refamiliarize yourself with the
+[Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md).
+Plagiarized work will not be accepted.
 
 ## [License](LICENSE)
 
